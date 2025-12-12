@@ -1,4 +1,4 @@
-# Sacha (susc) 
+# susc
 
 Welcome to my GitHub profile! My name is Sacha and I am a graduate student at Shenzhen University, majoring in Computer Technology. 
 
